@@ -12,8 +12,8 @@
 
 | File | Description |
 |------|-------------|
-| `IT_Capstone_Proposal_SaraGoodie_task2.pdf` | **Task 2** – IT Capstone Proposal (problem, solution, methodology, goals, timeline) |
-| `Post-Implementation_Report_Sg_task3.pdf` | **Task 3** – Post-Implementation Report (results, scope creep, project success metrics) |
+| `IT Capstone Proposal_SaraGoodie_T1` | **Task 1** – IT Capstone Proposal (problem, solution, methodology, goals, timeline) |
+| `ImplementationReport_SaraGoodie_T2` | **Task 2** – Post-Implementation Report (results, scope creep, project success metrics) |
 
 ---
 
